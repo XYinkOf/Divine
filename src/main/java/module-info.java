@@ -1,9 +1,9 @@
-module ink.divin3 {
+module ink.divine {
     requires javafx.controls;
     requires javafx.fxml;
 
     requires org.controlsfx.controls;
 
-    opens ink.divin3 to javafx.fxml;
-    exports ink.divin3;
+    opens ink.divine to javafx.fxml;
+    exports ink.divine;
 }

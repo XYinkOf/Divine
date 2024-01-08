@@ -25,8 +25,8 @@ tasks.withType(JavaCompile) {
 }
 
 application {
-    mainModule = 'ink.divin3'
-    mainClass = 'ink.divin3.HelloApplication'
+    mainModule = 'ink.divine'
+    mainClass = 'ink.divine.Main'
 }
 
 javafx {
